@@ -1,0 +1,5 @@
+Sword:A Sharp sword
+Key:A Rusty Key
+Armor:A Shiny metal Bulwark
+Potion:A Health potion
+Keycard:A level 1 Keycard
