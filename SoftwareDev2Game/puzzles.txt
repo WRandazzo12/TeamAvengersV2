@@ -1,1 +1,0 @@
-Puzzle1Name:This is the puzzles prompt:say This is the puzzles prompt:You should repeat back what the puzzle said
