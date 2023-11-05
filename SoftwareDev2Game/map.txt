@@ -1,0 +1,7 @@
+Room1:This is the first room. There's a door to Room2:N=Room2,W=Room6,E=Room7:Sword,Potion:Puzzle1Name:Monster1Name
+Room2:You are in Room2. There are doors to Room1 and Room3:N=Room3,S=Room1:Key:null:null
+Room3:Welcome to Room3. You can go back to Room2 through the door:S=Room2,W=Room4:Armor:null:null
+Room4:Welcome to Room4. You can go back to room 3 through the door:E=Room3,S=Room5:null:null:null
+Room5:Welcome to Room5. You can go back to room 4 through the door:S=Room6,E=Room2:null:null:null
+Room6:Welcome to Room6. This is a brick room:E=Room1,N=Room5:null:null:null
+Room7:Welcome to room7:W=Room1:Keycard:null:null
